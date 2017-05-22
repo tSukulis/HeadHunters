@@ -1,6 +1,6 @@
 ## HeadHunters
 
-# Optimization:<br />
+### Optimization:<br />
 - Query State changes to Invalid if Employee client gets hired at a job so that there will not be
   unnecessary contacts made by the Head Hunters Company to any Employer client for every newposted
   job matched with that query.
@@ -8,7 +8,7 @@
 - Security check in case more than one clients declare the same card number
 - If respond is out of time then the state of the Job Index will not change from Failed
 - Security check for responses. Any Employer who wants to accept a match index , should have the
-authority to do it and that match index must exist.
+  authority to do it and that match index must exist.
 - Password at login screen
 
 
