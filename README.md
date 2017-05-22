@@ -31,3 +31,7 @@ employer<br />
  -Can contact a match <br />
  
  
+ ER Model
+ ![alt text](https://github.com/tSukulis/HeadHunters/blob/master/ER%20Model.png)
+ 
+ 
