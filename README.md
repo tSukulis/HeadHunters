@@ -1,6 +1,6 @@
 ## HeadHunters
 
-#Optimization:<br />
+# Optimization:<br />
 - Query State changes to Invalid if Employee client gets hired at a job so that there will not be
   unnecessary contacts made by the Head Hunters Company to any Employer client for every newposted
   job matched with that query.
